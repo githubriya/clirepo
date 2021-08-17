@@ -1,2 +1,4 @@
+good afternoon
+
 Hello! welcome to git cli console
 hi there
